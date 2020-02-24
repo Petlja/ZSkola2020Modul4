@@ -15,6 +15,7 @@ Sada se u folderu podaci, pored podataka neophodnih za radne svkeske 1, 2 i 3, n
 - podaci o državama
 - podaci o gripu (za Srbiju i neke druge zemlje)
 - podaci o aktuelnom korona virusu
+
 Na ove podatke možete dodati i nešto drugo što vas možda više zanima, mogu to biti podaci o nekom vašem projektu, nešto na šta ste naleteli ali niste znali da analizirate, i slično. Na početku sledećeg druženja ćemo videti šta su podaci za koje ste se odlučili i ako su u pitanju neki novi podaci, procenićemo zajedno da li možemo nešto o njima da saznamo u kratkom vremenu koje nam je na raspolaganju.
 
 Tokom radionice možete da radite jednu od sledećih stvari (pojedinačno ili u grupama):
